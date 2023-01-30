@@ -1,0 +1,1 @@
+import{s as e}from"./skeleton.esm-a5d10ec2.js";import{J as r,o as t,u as o,M as s}from"./index-79d3e87e.js";const m=r({__name:"ApiView",setup(a){return(n,p)=>(t(),o(s(e),{width:"10rem",height:"4rem"}))}});export{m as default};

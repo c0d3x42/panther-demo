@@ -1,0 +1,1 @@
+import{s as e}from"./skeleton.esm-a5d10ec2.js";import{J as r,o as t,u as o,M as s}from"./index-79d3e87e.js";const p=r({__name:"AdminView",setup(a){return(n,m)=>(t(),o(s(e),{width:"10rem",height:"4rem"}))}});export{p as default};
