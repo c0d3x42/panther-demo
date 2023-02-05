@@ -1,0 +1,1 @@
+import{x as e,e as s,b as a,H as t,o,aa as r}from"./index-db3394f4.js";const c={class:"flex m-4"},i=e({__name:"ImportRulesView",setup(n){return(_,p)=>(o(),s("div",c,[a(t(r))]))}});export{i as default};
