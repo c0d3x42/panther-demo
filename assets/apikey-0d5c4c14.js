@@ -1,0 +1,1 @@
+import{a8 as o,ai as i,al as r}from"./index-47c13727.js";const u=o("apikey",()=>{const a=i(new Array),s=n=>a.find(t=>t.uuid===n),e=n=>{const t={uuid:r(),key:`random-key-${r()}`,creator:n,created:Date.now()};a.push(t)};return{keys:a,getKeyByUUID:s,add:e,generateKeys:()=>{e("admin"),e("admin-2"),e("admin-3")}}});export{u};
